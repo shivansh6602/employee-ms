@@ -5,7 +5,7 @@ const employees = [
     name: "Amit Sharma",
     email: "employee1@gmail.com",
     password: "123",
-    taskNumbers: {
+    taskCounts: {
       active: 2,
       newTask: 1,
       completed: 1,
@@ -50,7 +50,7 @@ const employees = [
     name: "Rahul Verma",
     email: "employee2@gmail.com",
     password: "123",
-    taskNumbers: {
+    taskCounts: {
       active: 1,
       newTask: 1,
       completed: 1,
@@ -95,7 +95,7 @@ const employees = [
     name: "Neha Singh",
     email: "employee3@gmail.com",
     password: "123",
-    taskNumbers: {
+    taskCounts: {
       active: 2,
       newTask: 1,
       completed: 1,
@@ -140,7 +140,7 @@ const employees = [
     name: "Priya Gupta",
     email: "employee4@gmail.com",
     password: "123",
-    taskNumbers: {
+    taskCounts: {
       active: 1,
       newTask: 1,
       completed: 1,
@@ -185,7 +185,7 @@ const employees = [
     name: "Suresh Kumar",
     email: "employee5@gmail.com",
     password: "123",
-    taskNumbers: {
+    taskCounts: {
       active: 2,
       newTask: 1,
       completed: 1,
